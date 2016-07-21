@@ -9,6 +9,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 # Combine previous two
 gem 'devise-bootstrap-views'
+# Use Stripe for credit card transactions
+gem 'stripe'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
